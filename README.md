@@ -1,6 +1,6 @@
 # CISC7204 Assignment 01 — Data Analytics Labs
 
-**Author:** Sun Yuanjiao (MC653434), University of Macau
+**Author:** Sun Yuanjiao (MC65343), University of Macau
 **Course:** CISC7204 — Assignment 01
 
 This repository collects the completed lab notebooks and supporting datasets for
